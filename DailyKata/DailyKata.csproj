@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Katas\Consultant.cs" />
+    <Compile Include="Katas\Employee.cs" />
     <Compile Include="Katas\HaystackNeedleKata.cs" />
+    <Compile Include="Katas\Junior.cs" />
+    <Compile Include="Katas\Middle.cs" />
     <Compile Include="Katas\PolymorphicRefactoringKata.cs" />
+    <Compile Include="Katas\Senior.cs" />
     <Compile Include="Katas\StringCalculatorKata.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
